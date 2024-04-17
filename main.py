@@ -1,4 +1,4 @@
-import qrcode
+import qrcode 
 import base64
 from flask import Flask
 from flask import request
